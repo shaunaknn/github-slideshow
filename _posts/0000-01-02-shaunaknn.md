@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Mars is the fourth planet in our solar system!
 Use the left arrow to go back!
